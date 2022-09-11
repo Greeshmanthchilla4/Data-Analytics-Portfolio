@@ -1,7 +1,9 @@
-# Diabetes
+# Bank-Marketing
 
-This dataset collected from the National Institute of Diabetes and Digestive and Kidney Diseases.
+This dataset collected from the **UCI Repository**.
 
-Libraries used in this project are - Numpy, Pandas, Matplotlib, Seaborn and SckitLearn, 
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls.
+
+Libraries used in this project are - Numpy, Pandas, Matplotlib, Seaborn and SckitLearn. 
 
 
