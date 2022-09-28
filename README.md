@@ -12,7 +12,7 @@ Share
 Act or Report
 Each step has its own process and tools to make overall conclusions based on the data.
 
-# Why Python for data analysis?
+# Why Python for Data Analysis?
 Python is a multi-functional, maximally interpreted programming language with several advantages that are often used to streamline massive, and complex data sets.
 Also focused on simplicity as well as readability, providing a host of helpful options for data analysts/scientists simultaneously.
 See the features below:
